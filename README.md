@@ -32,12 +32,12 @@ Nasıl Kullanılır;
       - /orders/{id}
       - /products/{id}
      
-    - DELETE - ID'ye göre dataları silmek : 
+   - DELETE - ID'ye göre dataları silmek : 
        - /customers/{id}
        - /orders/{id}
        - /products/{id}
     
-    - POST - Entity oluşturma : 
+   - POST - Entity oluşturma : 
       - /customers/{id}
       - /products/{id}
       
