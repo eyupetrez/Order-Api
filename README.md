@@ -38,6 +38,7 @@ Nasıl Kullanılır;
        - /products/{id}
     
    - POST - Entity oluşturma : 
-      - /customers/{id}
-      - /products/{id}
+      - /customers
+      - /products
+      - /orders
       
