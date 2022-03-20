@@ -1,4 +1,4 @@
-# Order-Api control Rest API
+# B2B project control Rest API
 
 Müşteri, Ürün ve Sipariş için oluşturulmuş bir CRUD Api'si.
 - Sipariş öğeleri ve müşterilerle ilişkilendirme ile siparişi kontrol eden bir API oluşturuldu. Çalışmada kullanılanlar; 
